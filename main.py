@@ -141,11 +141,3 @@ Next_turn(snake, food)
 
 window.mainloop()
 
-
-
-mudar_direcao = [
-
-    {'left': 'right'}
-
-
-]
